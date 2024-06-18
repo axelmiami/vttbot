@@ -1,0 +1,14 @@
+{
+    "command_help": "Pomoc",
+    "help_message": "Ten bot jest przeznaczony do konwersji wiadomości głosowych, wideo i plików audio na tekst.\nObsługuje wiele języków i może pracować z różnymi typami plików multimedialnych, w tym wiadomościami głosowymi, notatkami wideo, wideo i plikami audio.\nWystarczy wysłać wiadomość lub plik głosowy, wybrać język i otrzymać tekst wygenerowany na podstawie rozpoznanego głosu.",
+    "not_authorized": "Nie masz uprawnień do korzystania z tego bota.",
+    "file_too_big": "Plik {file_type} jest za duży ({file_size:.2f} MB).",
+    "choose_language": "Proszę wybrać język:",
+    "choose_language_transcription": "Proszę wybrać język do transkrypcji:",
+    "processing_audio": "Przetwarzanie twojego audio w języku {language}...",
+    "error_occurred": "Wystąpił błąd: {error}",
+    "unsupported_file": "Nieobsługiwany typ pliku.",
+    "not_enough_space": "Za mało miejsca na dysku, aby przetworzyć plik.",
+    "blocked_for_spamming": "Zostałeś zablokowany za spamowanie.",
+    "no_audio_found": "Nie znaleziono pliku audio do przetworzenia."
+}

@@ -1,0 +1,14 @@
+{
+    "command_help": "Help",
+    "help_message": "This bot is designed to convert voice messages, videos, and audio files into text.\nIt supports multiple languages and can work with various types of media files, including voice messages, video notes, videos, and audio files.\nSimply send a message or a voice file, choose the language, and receive a text generated from the recognized voice.",
+    "not_authorized": "You are not authorized to use this bot.",
+    "file_too_big": "The {file_type} is too big ({file_size:.2f} MB).",
+    "choose_language": "Please choose your language:",
+    "choose_language_transcription": "Please choose the language for transcription:",
+    "processing_audio": "Processing your audio in {language}...",
+    "error_occurred": "An error occurred: {error}",
+    "unsupported_file": "Unsupported file type.",
+    "not_enough_space": "Not enough disk space to process the file.",
+    "blocked_for_spamming": "You have been blocked for spamming.",
+    "no_audio_found": "No audio file found to process."
+}

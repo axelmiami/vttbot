@@ -1,0 +1,14 @@
+[Unit]
+Description=Voice to Text Telegram Bot Service
+After=network.target
+
+[Service]
+ExecStart=/path/to/python3 /path/to/progect/bot.py
+WorkingDirectory=/path/to/progect
+Restart=always
+User=starting_username
+Group=starting_username
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target
